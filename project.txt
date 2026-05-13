@@ -1,3 +1,1 @@
-Line 1: initial content
-Line 2: more content
-Line 3: new change for review
+Line 3: updated and clearer change for review
